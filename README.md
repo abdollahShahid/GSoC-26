@@ -37,23 +37,3 @@ The planned work includes:
 ## Weekly Progress Reports
 
 All weekly progress reports are stored in the `WPR/` folder.
-
-## Repository Structure
-
-```text
-.
-├── README.md
-└── WPR/
-    ├── week01.md
-    ├── week02.md
-    ├── week03.md
-    ├── week04.md
-    ├── week05.md
-    ├── week06.md
-    ├── week07.md
-    ├── week08.md
-    ├── week09.md
-    ├── week10.md
-    ├── week11.md
-    └── week12.md
-```
